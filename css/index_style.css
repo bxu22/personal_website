@@ -1,5 +1,5 @@
 #welcome1 {
-    margin-top: 7.5%
+    margin-top: 7%
 }
 
 #welcome2 {
@@ -28,7 +28,9 @@
 }
 
 #about2 {
-    text-align: left;
     flex: 1;
-    font-size: 18px;
+}
+
+#about2 > img {
+    height: 350px;
 }
