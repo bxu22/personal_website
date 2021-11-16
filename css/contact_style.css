@@ -31,17 +31,17 @@
     flex: 1;
 }
 
-#contact_detail > p {
+.contact_detail > p {
     margin: 23.4px;
     padding: 2.5px;
 }
 
-#contact_detail > p > a {
+.contact_detail > p > a {
     text-decoration: none;
     color: black;
 }
 
-#contact_detail > p > a:hover {
+.contact_detail > p > a:hover {
     background-color: rgba(60, 60, 60, 0.5);
     color: white;
 }
